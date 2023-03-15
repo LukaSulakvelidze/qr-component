@@ -1,37 +1,38 @@
 body {
-    background-color: #d5e1ef;
-    display: flex;
-    height: 100vh;
-    overflow: hidden;
-    font-family: "Outfit", sans-serif;
-  }
-  
-  .div {
-    width: 320px;
-    margin: auto;
-    background-color: white;
-    padding: 16px;
-    border-radius: 20px;
-  }
-  
-  .img {
-    max-width: 100%;
-    border-radius: 10px;
-  }
-  .h1 {
-    font-size: 24px;
-    font-weight: 700;
-    text-align: center;
-    margin: 24px;
-    line-height: 27.72px;
-    color: #1f314f;
-  }
-  .p {
-    font-size: 15px;
-    font-weight: 400;
-    text-align: center;
-    margin: 24px 32px;
-    line-height: 19px;
-    color: #7d889e;
-  }
-  
+  background-color: #d5e1ef;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  font-family: "Outfit", sans-serif;
+}
+
+.div {
+  width: 320px;
+  margin: auto;
+  background-color: white;
+  padding: 16px;
+  border-radius: 20px;
+}
+
+.img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.h1 {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  margin: 24px;
+  line-height: 27.72px;
+  color: #1f314f;
+}
+
+.p {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  margin: 24px 32px;
+  line-height: 19px;
+  color: #7d889e;
+}
