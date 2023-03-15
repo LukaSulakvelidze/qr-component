@@ -2,7 +2,6 @@ body {
   background-color: #d5e1ef;
   display: flex;
   height: 100vh;
-  overflow: hidden;
   font-family: "Outfit", sans-serif;
 }
 
